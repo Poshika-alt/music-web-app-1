@@ -1,0 +1,35 @@
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 350px;
+    margin-bottom: 50px;
+  }
+body{
+   
+ 
+   background-color: teal;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#header{
+    font-family: 'Acme', sans-serif;
+}
+
+.note{
+    font-size: 18px;
+    color: black;
+}
+
+.heading_div{
+    text-align: center;
+    background-color: white;
+    border: 2px solid rgb(255, 187, 0);
+    border-radius:5px;
+}
+
